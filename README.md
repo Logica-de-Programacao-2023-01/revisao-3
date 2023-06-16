@@ -161,12 +161,12 @@ nums = [2,2,1]
 ### Exemplo de saída:
 
 ```
-1
+2
 ```
 
 ### Explicação:
 
-Nesse caso, o número 1 é o único elemento que aparece uma única vez.
+Nesse caso, o número 1 é o único elemento que aparece uma única vez e está na posição 2.
 
 ## Questão 5
 
